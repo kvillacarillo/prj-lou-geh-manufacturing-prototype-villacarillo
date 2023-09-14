@@ -1,9 +1,3 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: post
-title: Assessment
----
 ## **Lou Geh Manufacturing Company**
 Lou Geh manufacturing company produces products. The following product informationis stored: product name, product ID and quantity on hand. These products are madeup of many components. Each component can be supplied by one or more suppliers. Thefollowing component information is kept: component ID, name, description, suppliers who supply them, and products in which they are used.
 
