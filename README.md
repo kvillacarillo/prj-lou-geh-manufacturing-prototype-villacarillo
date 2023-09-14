@@ -1,4 +1,8 @@
-# **Activitiy Problem**
+---
+layout: post
+title: "Activity Problem"
+---
+## **Lough Geh Manufacturing Company**
 Lou Geh manufacturing company produces products. The following product informationis stored: product name, product ID and quantity on hand. These products are madeup of many components. Each component can be supplied by one or more suppliers. Thefollowing component information is kept: component ID, name, description, suppliers who supply them, and products in which they are used.
 
 - A supplier can exist without providing components.
